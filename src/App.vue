@@ -1,10 +1,12 @@
 <template>
   <h1>Listado de Post:</h1>
- <PostContainer />
+ <!-- <PostContainer /> -->
+ <ExampleFor/>
 </template>
 
 <script setup>
-  import PostContainer from './components/PostContainer.vue';
+  import ExampleFor from './components/ExampleFor.vue';
+// import PostContainer from './components/PostContainer.vue';
 </script>
 
 
