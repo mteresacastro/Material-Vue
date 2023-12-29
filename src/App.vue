@@ -1,12 +1,12 @@
 <template>
   <h1>Listado de Post:</h1>
  <!-- <PostContainer /> -->
-   <ClassBind/>
+   <StyleBind/>
  <ExampleFor/>
 </template>
 
 <script setup>
-  import ClassBind from './components/ClassBind.vue';
+  import StyleBind from './components/StyleBind.vue';
 // import PostContainer from './components/PostContainer.vue';
 </script>
 
