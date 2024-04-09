@@ -5,7 +5,7 @@
         border: '3px solid salmon'
 
     }">El mensaje se ha enviado satisfactoriamente</p>
-    <button v-on:click="handleClick()">Cambiar color</button>
+    <button v-on:click="handleClick()"></button><!--v-on se acorta con @, v-bind se acorta con :.-->  Cambiar color</button> 
     </template>
     
     
